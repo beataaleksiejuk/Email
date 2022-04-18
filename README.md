@@ -7,4 +7,5 @@ This is example of email template made with course Platzi "Curso de Diseño y Ma
 -Email template in a table,
 -HTML, CSS in one Index file,
 -Adapted to email marketing platforms,
--Email design example.
+-Email design example,
+-Adding pictures (banner, logo, buttons) from images- jpg png.
